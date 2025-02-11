@@ -1,0 +1,3 @@
+local char = {}
+
+return char
